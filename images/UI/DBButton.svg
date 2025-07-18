@@ -1,0 +1,24 @@
+<svg width="248" height="254" viewBox="0 0 248 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="124" cy="130" r="124" fill="#D3D3D3"/>
+<circle cx="124" cy="124" r="118" fill="#7DB876" stroke="white" stroke-width="12"/>
+<circle cx="124" cy="124" r="118" fill="#9AA999" stroke="white" stroke-width="12"/>
+<path d="M234 122.4C234 138.635 181.251 189.5 120.5 189.5C59.7487 189.5 14 142.424 14 122.4C14 61.4278 63.2487 12 124 12C184.751 12 234 61.4278 234 122.4Z" fill="url(#paint0_linear_3549_122)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M235.842 118C232.724 177.066 183.843 224 124 224C64.157 224 15.2759 177.066 12.158 118C12.0531 119.987 12 121.987 12 124C12 185.856 62.1441 236 124 236C185.856 236 236 185.856 236 124C236 121.987 235.947 119.987 235.842 118Z" fill="#7C8D7A"/>
+<g filter="url(#filter0_f_3549_122)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M85 76C85 69.3726 90.373 64 97 64H163C165.209 64 167 65.7908 167 68V159C167 161.209 165.209 163 163 163V173C165.209 173 167 174.791 167 177C167 179.209 165.209 181 163 181H97C90.582 181 85 175.418 85 169V76Z" fill="#819280"/>
+</g>
+<rect x="95" y="157" width="66" height="17" fill="#D3DDD2"/>
+<path d="M95 62C88.373 62 83 67.3726 83 74V167C83 173.418 88.582 179 95 179H161C163.209 179 165 177.209 165 175C165 172.791 163.209 171 161 171H100C97.2386 171 95 168.761 95 166V166C95 163.239 97.2386 161 100 161H161C163.209 161 165 159.209 165 157V66C165 63.7908 163.209 62 161 62H95Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M85.6484 174.351C87.8835 177.148 91.3028 179 94.9995 179H160.999C163.208 179 164.999 177.209 164.999 175C164.999 173.378 164.034 171.981 162.646 171.354C162.873 171.856 162.999 172.413 162.999 173C162.999 175.209 161.208 177 158.999 177H92.9994C90.2782 177 87.7073 175.997 85.6484 174.351ZM95.6076 168.392C94.0536 167.544 92.9994 165.895 92.9994 164C92.9994 161.239 95.238 159 97.9994 159H158.999C161.208 159 162.999 157.209 162.999 155V64.0001C162.999 63.4131 162.873 62.8557 162.646 62.3535C164.034 62.9811 164.999 64.3778 164.999 66V157C164.999 159.209 163.208 161 160.999 161H99.9995C97.238 161 94.9995 163.239 94.9995 166C94.9995 166.866 95.2199 167.681 95.6076 168.392Z" fill="#D3DAD3"/>
+<defs>
+<filter id="filter0_f_3549_122" x="81" y="60" width="90" height="125" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_3549_122"/>
+</filter>
+<linearGradient id="paint0_linear_3549_122" x1="124" y1="12" x2="124" y2="150" gradientUnits="userSpaceOnUse">
+<stop offset="0.515" stop-color="#A9B7A8"/>
+<stop offset="1" stop-color="#A9B7A8" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
