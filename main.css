@@ -557,23 +557,20 @@ body {
 
 .building {
    background-color: rgb(247, 247, 247);
+   overflow: scroll;
 }
 
 .dragable{
-   height: 100%;
-   margin-top: 24px;
    align-content: center;
-
 }
 
 .buildingList{
-   margin-top: 12px;
+   margin-bottom: 12px;
    width: 100%;
    display: grid;
    grid-template-columns: 1fr 1fr;
    column-gap: 10px;
    row-gap: 10px;
-   
 }
 
 .buildingBox{
